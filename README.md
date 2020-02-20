@@ -1,4 +1,4 @@
-<img src=[CIS] align="right" />
+<img src="symbol.png" align="right" />
 
 # talentX [![talentX][SSAFY#2BADGE]][HOMEPAGE]
 
