@@ -4,7 +4,7 @@
 
 > SW Engineer Hiring Platform
 
-talentX recommends talented SW engineers to promising companies on a regular basis and meditates a reasonable salary which both sides are satisfied with.
+talentX recommends talented SW engineers to promising companies on a regular basis and tunes the reasonable salary and benefits which both sides are satisfied with.
 
 
 ## Quick start
