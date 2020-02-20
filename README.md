@@ -24,7 +24,7 @@ $ npx react-native run-ios
 
 ## License
 
-
+talentX is MIT licensed, as found in the [LICENSE][LICENSE] file.
 
 [![talentX][CIL]][HOMEPAGE]
 
@@ -36,3 +36,4 @@ $ npx react-native run-ios
 [CIL]: https://github.com/ArthurSHan/ITPORTFOLIO/blob/master/logo.png
 [SSAFYHOMEPAGE]: https://www.ssafy.com/
 [HOMEPAGE]: https://www.talentx.co.kr
+[LICENSE]: https://github.com/ArthurSHan/ITPORTFOLIO/blob/master/LICENSE
