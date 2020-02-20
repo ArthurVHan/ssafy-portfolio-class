@@ -9,6 +9,14 @@ talentX recommends talented SW engineers to promising companies on a regular bas
 
 ## Quick start
 
+### Installation
+
+```sh
+npx react-native init talentX
+```
+
+    $ npx react-native init talentX
+
 [![talentX][CIL]][HOMEPAGE]
 
 
