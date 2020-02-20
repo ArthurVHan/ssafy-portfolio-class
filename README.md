@@ -20,7 +20,9 @@ $ cd talentXProject
 $ npx react-native run-ios
 ```
 
-## 🤝 Contributing
+## 🍴 Contributing
+
+Please fork this project first and pick one of issues you can handle then shoot us your pull request.
 
 ## 📄 License
 
