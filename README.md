@@ -11,11 +11,20 @@ talentX recommends talented SW engineers to promising companies on a regular bas
 
 ### Installation
 
+    $ npx react-native init talentXProject
+
+### Usage
+
 ```sh
-npx react-native init talentX
+$ cd talentXProject
+$ npx react-native run-ios
 ```
 
-    $ npx react-native init talentX
+## Contributing
+
+## License
+
+
 
 [![talentX][CIL]][HOMEPAGE]
 
