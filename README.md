@@ -28,8 +28,7 @@ Please fork this project first and pick one of issues you can handle then shoot 
 
 talentX is MIT licensed, as found in the [LICENSE][LICENSE] file.
 
-[![talentX][CIL]][HOMEPAGE]
-
+<a href="https://www.talentx.co.kr"><img src="logo.png" align="right" /></a>
 
 
 
