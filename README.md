@@ -7,7 +7,7 @@
 talentX recommends talented SW engineers to promising companies on a regular basis and tunes the reasonable salary and benefits which both sides are satisfied with.
 
 
-## Quick start
+## ⚡️ Quick start
 
 ### Installation
 
@@ -20,9 +20,9 @@ $ cd talentXProject
 $ npx react-native run-ios
 ```
 
-## Contributing
+## 🤝 Contributing
 
-## License
+## 📄 License
 
 talentX is MIT licensed, as found in the [LICENSE][LICENSE] file.
 
