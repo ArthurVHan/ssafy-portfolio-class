@@ -1,6 +1,6 @@
 <a href="https://www.talentx.co.kr"><img src="symbol.png" align="right" /></a>
 
-# talentX [![SSAFY #2][SSAFY#2BADGE]][SSAFYHOMEPAGE] [![IT Portfolio 2.0][ITPORTFOLIO2.0BADGE]][ITPORTFOLIOTEMPLATE] 
+# talentX [![SSAFY #3][SSAFY#3BADGE]][SSAFYHOMEPAGE] [![IT Portfolio 2.1][ITPORTFOLIO2.1BADGE]][ITPORTFOLIOTEMPLATE] 
 
 > SW Engineer Hiring Platform
 
@@ -32,8 +32,8 @@ talentX is MIT licensed, as found in the [LICENSE][LICENSE] file.
 
 
 
-[SSAFY#2BADGE]: https://img.shields.io/badge/SSAFY-2%EA%B8%B0-blue
-[ITPORTFOLIO2.0BADGE]: https://img.shields.io/badge/IT%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2.0-blue
+[SSAFY#3BADGE]: https://img.shields.io/badge/SSAFY-3%EA%B8%B0-blue
+[ITPORTFOLIO2.1BADGE]: https://img.shields.io/badge/ITPORTFOLIO-2.1-blue
 [CIS]: https://github.com/ArthurSHan/ITPORTFOLIO/blob/master/symbol.png
 [CIL]: https://github.com/ArthurSHan/ITPORTFOLIO/blob/master/logo.png
 [SSAFYHOMEPAGE]: https://www.ssafy.com/
